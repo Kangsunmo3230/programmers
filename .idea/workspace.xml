@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45276c55-628a-4f33-8e66-6b7625b7584b" name="Changes" comment="# 코테 &#10;1.최댓값과 최솟값&#10;2.JadenCase 문자열 만들기">
+    <list default="true" id="45276c55-628a-4f33-8e66-6b7625b7584b" name="Changes" comment="# 코테 &#10;1.최솟값 만들기&#10;2.올바른 괄호&#10;3.숫자의 표현&#10;4.다음 큰 숫자">
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Product.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test5.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test6.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,33 +61,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test7">
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Test3" />
-      <module name="programmers.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Test4" />
-      <module name="programmers.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test9">
     <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Test5" />
       <module name="programmers.main" />
@@ -124,13 +101,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Test8" />
+      <module name="programmers.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Test9" />
+      <module name="programmers.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test9" />
+        <item itemvalue="Application.Test8" />
         <item itemvalue="Application.Test7" />
         <item itemvalue="Application.Test6" />
         <item itemvalue="Application.Test5" />
-        <item itemvalue="Application.Test4" />
-        <item itemvalue="Application.Test3" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +150,7 @@
       <workItem from="1676436942611" duration="10150000" />
       <workItem from="1676852743645" duration="1611000" />
       <workItem from="1677816925351" duration="894000" />
-      <workItem from="1679297975815" duration="16902000" />
+      <workItem from="1679297975815" duration="27473000" />
     </task>
     <task id="LOCAL-00001" summary="# 코테 &#10;1.최댓값과 최솟값&#10;2.JadenCase 문자열 만들기">
       <created>1679304686650</created>
@@ -156,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679304686650</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="# 코테 &#10;1.최솟값 만들기&#10;2.올바른 괄호&#10;3.숫자의 표현&#10;4.다음 큰 숫자">
+      <created>1679378099266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679378099266</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +185,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="# 코테 &#10;1.최댓값과 최솟값&#10;2.JadenCase 문자열 만들기" />
-    <option name="LAST_COMMIT_MESSAGE" value="# 코테 &#10;1.최댓값과 최솟값&#10;2.JadenCase 문자열 만들기" />
+    <MESSAGE value="# 코테 &#10;1.최솟값 만들기&#10;2.올바른 괄호&#10;3.숫자의 표현&#10;4.다음 큰 숫자" />
+    <option name="LAST_COMMIT_MESSAGE" value="# 코테 &#10;1.최솟값 만들기&#10;2.올바른 괄호&#10;3.숫자의 표현&#10;4.다음 큰 숫자" />
   </component>
 </project>

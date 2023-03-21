@@ -13,9 +13,6 @@ import java.util.stream.Stream;
         예를들어 s가 "1 2 3 4"라면 "1 4"를 리턴하고, "-1 -2 -3 -4"라면 "-4 -1"을 리턴하면 됩니다.
  */
 public class test2 {
-    public test2() {
-        super();
-    }
 
     public static void main(String[] args) {
         String str = "1 2 3 4";

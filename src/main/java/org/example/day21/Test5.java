@@ -1,4 +1,4 @@
-package org.example;
+package org.example.day21;
 
 public class Test5 {
     boolean solution(String str) {

@@ -22,7 +22,7 @@ public class Test19 {
                 }
             }
             sb.append(max);
-            System.out.println(max);
+            System.out.println("max => " + max);
         }
     }
 }

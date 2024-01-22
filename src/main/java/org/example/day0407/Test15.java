@@ -23,7 +23,7 @@ public class Test15 {
      for(int i=0; i< callings.length; i++){
       int index =  Arrays.asList(players).indexOf(callings[i]);
 
-      Collections.swap(Arrays.asList(players),index, index-1);
+//      Collections.swap(Arrays.asList(players),index, index-1);
      }
 
 

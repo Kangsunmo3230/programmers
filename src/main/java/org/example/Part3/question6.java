@@ -12,20 +12,22 @@ import java.util.Arrays;
  */
 public class question6 {
     public static void main(String[] args) {
-        int [] people = {70,50,80,50};
+        int[] people = {70, 50, 80, 50};
         int limit = 100;
         int count = 0;
-        int i= 0; int j = 1;
-        Arrays.sort(people); //30 40 50 50 70 80; count = 4 total = 6
+        int start = 0;
+        int end = people.length - 1;
+        Arrays.sort(people);
 
-        //
-        while(people[i] + people[j] > limit){
-            if(people[i] + people[j] <= limit){
-                count ++;
-                i += 2;
-                j += 2;
+        while (start <= end) {
+            if (people[start] + people[end] <= limit) {
+                start++;
+                end--;
+            } else {
+                end--;
             }
+            count++;
         }
-        System.out.printf("count = > "  + count);
+        System.out.printf("count = > " + count);
     }
 }

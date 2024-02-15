@@ -37,7 +37,6 @@ public class question5 {
             }
         }
         System.out.println(count);
-
         /*        int 배열 내림차순 하는 법
          *        Integer [] arr3 = Arrays.stream(array).boxed().toArray(Integer[] :: new);
          *        Arrays.sort(arr3, Collections.reverseOrder());

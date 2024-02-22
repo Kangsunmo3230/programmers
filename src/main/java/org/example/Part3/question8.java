@@ -39,7 +39,7 @@ public class question8 {
         //배열로 만들어서 보내야 함
         //list를 배열로 변경
         int [] answer = array.stream().mapToInt(i -> i).toArray();
-
+        array.stream().mapToInt((i -> i)).toArray();
         System.out.println(answer);
     }
 }

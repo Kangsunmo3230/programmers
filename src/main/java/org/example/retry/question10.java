@@ -15,22 +15,15 @@ import java.util.Stack;
 public class question10 {
     public static void main(String[] args) {
         int prices[] = {1, 2, 3, 2, 3,}; // return [4,3,1,1,0];
-        //ex) [3,5,5,4,1] => [3,3,2,0,0]
-        int[] ans = new int[prices.length];
         Stack<Integer> stack = new Stack();
-//        System.out.println(stack.peek());
-//        System.out.println(prices[stack.peek()]);
+        int[] ans = new int[prices.length];
         for (int i = 0; i < prices.length; i++) {
-            while (!stack.isEmpty() && prices[i] < prices[stack.peek()]) { //스택이 비어있지 않고 + 가격이 떨어졋다
+            while (!stack.isEmpty() && prices[i] < prices[stack.peek()]) { //스택이 비어잇지않고  && 가격이
                 ans[stack.peek()] = i - stack.peek();
                 stack.pop(); // 답을 구했기 때문에 stack에서 제거한다
             }
             stack.push(i);
         }
-        System.out.println(stack.toString());
-    //5 < 7
-        //[0 ,
-
-
+        System.out.println(stack);
     }
 }

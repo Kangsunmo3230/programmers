@@ -26,7 +26,6 @@ public class question13 {
         for (int i = 0; i < array.length; i++) {
             queue.offer(array[i]);
         }
-        System.out.println(queue);
         while (queue.size() > 1) {
             queue.poll();
             queue.offer(queue.poll());

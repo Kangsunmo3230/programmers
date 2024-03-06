@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45276c55-628a-4f33-8e66-6b7625b7584b" name="Changes" comment="# 코테 -스택 &#10;백준(오큰수 ) =&gt; 다시 풀기">
+    <list default="true" id="45276c55-628a-4f33-8e66-6b7625b7584b" name="Changes" comment="# 코테 -정렬&#10;개념정리">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sort/question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sort/question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sort/question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sort/question5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/retry/question10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/retry/question10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Part3/question13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Part3/question13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +82,11 @@
     "Gradle.programmers [:question10.main()].executor": "Run",
     "Gradle.programmers [:question11.main()].executor": "Run",
     "Gradle.programmers [:question12.main()].executor": "Run",
+    "Gradle.programmers [:question13.main()].executor": "Run",
     "Gradle.programmers [:question14.main()].executor": "Run",
+    "Gradle.programmers [:question2.main()].executor": "Run",
+    "Gradle.programmers [:question3.main()].executor": "Run",
+    "Gradle.programmers [:question4.main()].executor": "Run",
     "Gradle.programmers [:question6.main()].executor": "Run",
     "Gradle.programmers [:question7.main()].executor": "Run",
     "Gradle.programmers [:question8.main()].executor": "Run",
@@ -116,20 +124,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Test15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day0407.Test15" />
-      <module name="programmers.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.day0407.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.question4">
     <configuration name="org.example.retry.question10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.retry.question10" />
       <module name="programmers.main" />
@@ -143,21 +138,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="question11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Part3.question11" />
-      <module name="programmers.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.retry.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="question12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Part3.question12" />
+    <configuration name="question13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Part3.question13" />
       <module name="programmers.main" />
       <extension name="coverage">
         <pattern>
@@ -169,12 +151,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="question14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.retry.question14" />
+    <configuration name="question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.sort.question2" />
       <module name="programmers.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.retry.*" />
+          <option name="PATTERN" value="org.example.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="question3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.sort.question3" />
+      <module name="programmers.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="question4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.sort.question4" />
+      <module name="programmers.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.question4" />
+        <item itemvalue="애플리케이션.question3" />
+        <item itemvalue="애플리케이션.question13" />
+        <item itemvalue="애플리케이션.question2" />
         <item itemvalue="애플리케이션.org.example.retry.question10" />
-        <item itemvalue="애플리케이션.question12" />
-        <item itemvalue="애플리케이션.question14" />
-        <item itemvalue="애플리케이션.Test15" />
-        <item itemvalue="애플리케이션.question11" />
       </list>
     </recent_temporary>
   </component>
@@ -233,6 +241,8 @@
       <workItem from="1708583843040" duration="2630000" />
       <workItem from="1708646925165" duration="2056000" />
       <workItem from="1709024918326" duration="5287000" />
+      <workItem from="1709109439475" duration="6147000" />
+      <workItem from="1709711515429" duration="5024000" />
     </task>
     <task id="LOCAL-00001" summary="# 코테 &#10;1.최댓값과 최솟값&#10;2.JadenCase 문자열 만들기">
       <created>1679304686650</created>
@@ -302,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709027605651</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="# 코테 -정렬&#10;개념정리">
+      <option name="closed" value="true" />
+      <created>1709171141174</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709171141174</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,7 +347,8 @@
     <MESSAGE value="# 코테 -스택 &#10;프로그래머스 (같은 숫자는 싫어)" />
     <MESSAGE value="# 코테 -스택 &#10;프로그래머스 (주식가격)" />
     <MESSAGE value="# 코테 -스택 &#10;백준(오큰수 ) =&gt; 다시 풀기" />
-    <option name="LAST_COMMIT_MESSAGE" value="# 코테 -스택 &#10;백준(오큰수 ) =&gt; 다시 풀기" />
+    <MESSAGE value="# 코테 -정렬&#10;개념정리" />
+    <option name="LAST_COMMIT_MESSAGE" value="# 코테 -정렬&#10;개념정리" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

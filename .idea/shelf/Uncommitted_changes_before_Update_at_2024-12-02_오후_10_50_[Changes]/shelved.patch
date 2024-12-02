@@ -1,0 +1,251 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"45276c55-628a-4f33-8e66-6b7625b7584b\" name=\"Changes\" comment=\"# 코테 &#10;-멀리뛰기\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/org/example/day0407/Test15.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/org/example/day0407/Test15.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/org/example/month04/Test19.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/org/example/month04/Test19.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ExternalProjectsData\">\r\n    <projectState path=\"$PROJECT_DIR$\">\r\n      <ProjectState />\r\n    </projectState>\r\n  </component>\r\n  <component name=\"ExternalProjectsManager\">\r\n    <system id=\"GRADLE\">\r\n      <state>\r\n        <projects_view>\r\n          <tree_state>\r\n            <expand>\r\n              <path>\r\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\r\n                <item name=\"programmers\" type=\"f1a62948:ProjectNode\" />\r\n              </path>\r\n            </expand>\r\n            <select />\r\n          </tree_state>\r\n        </projects_view>\r\n      </state>\r\n    </system>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;Kangsunmo3230&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"selectedUrlAndAccountId\">\r\n      <UrlAndAccount>\r\n        <option name=\"accountId\" value=\"d0a37ed1-40e1-49a5-bb31-8767b8512eee\" />\r\n        <option name=\"url\" value=\"https://github.com/Kangsunmo3230/programmers.git\" />\r\n      </UrlAndAccount>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 0\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2LkoDf44iv82Q8p1b5j08m5dW5e\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Gradle.programmers [:Test14.main()].executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/ksm02/project/restapi-study&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,\r\n    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,\r\n    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\r\n      <recent name=\"org.example.day25\" />\r\n      <recent name=\"org.example.day24\" />\r\n      <recent name=\"org.example.day23\" />\r\n      <recent name=\"org.example.day22\" />\r\n      <recent name=\"org.example\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.Test14\">\r\n    <configuration name=\"Test14\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.example.month04.Test14\" />\r\n      <module name=\"programmers.main\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.example.month04.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Test15\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.example.month04.Test15\" />\r\n      <module name=\"programmers.main\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.example.month04.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Test16\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.example.month04.Test16\" />\r\n      <module name=\"programmers.main\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.example.month04.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Test18\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.example.month04.Test18\" />\r\n      <module name=\"programmers.main\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.example.month04.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Test19\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.example.month04.Test19\" />\r\n      <module name=\"programmers.main\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.example.month04.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"jdk-11.0.22-corretto-11.0.22-f644763e9732-4a89cc43\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"45276c55-628a-4f33-8e66-6b7625b7584b\" name=\"Changes\" comment=\"\" />\r\n      <created>1676424323957</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1676424323957</updated>\r\n      <workItem from=\"1676424326108\" duration=\"57000\" />\r\n      <workItem from=\"1676426058507\" duration=\"1152000\" />\r\n      <workItem from=\"1676436942611\" duration=\"10150000\" />\r\n      <workItem from=\"1676852743645\" duration=\"1611000\" />\r\n      <workItem from=\"1677816925351\" duration=\"894000\" />\r\n      <workItem from=\"1679297975815\" duration=\"46238000\" />\r\n      <workItem from=\"1679878970993\" duration=\"656000\" />\r\n      <workItem from=\"1679905546098\" duration=\"55000\" />\r\n      <workItem from=\"1680228356065\" duration=\"1085000\" />\r\n      <workItem from=\"1680766995750\" duration=\"12286000\" />\r\n      <workItem from=\"1681088822000\" duration=\"45527000\" />\r\n      <workItem from=\"1681692735328\" duration=\"19027000\" />\r\n      <workItem from=\"1681880474014\" duration=\"9764000\" />\r\n      <workItem from=\"1681893390335\" duration=\"599000\" />\r\n      <workItem from=\"1681956641346\" duration=\"284000\" />\r\n      <workItem from=\"1681956939869\" duration=\"206000\" />\r\n      <workItem from=\"1681957714003\" duration=\"78000\" />\r\n      <workItem from=\"1681963320859\" duration=\"26895000\" />\r\n      <workItem from=\"1705931612768\" duration=\"72000\" />\r\n      <workItem from=\"1705932204447\" duration=\"14000\" />\r\n      <workItem from=\"1705932233437\" duration=\"55000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"# 코테 &#10;1.최댓값과 최솟값&#10;2.JadenCase 문자열 만들기\">\r\n      <created>1679304686650</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1679304686650</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"# 코테 &#10;1.최솟값 만들기&#10;2.올바른 괄호&#10;3.숫자의 표현&#10;4.다음 큰 숫자\">\r\n      <created>1679378099266</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1679378099266</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"# 코테 &#10;1.최솟값 만들기&#10;2.올바른 괄호&#10;3.숫자의 표현&#10;4.다음 큰 숫자&#10;5.짝지어 제거하기(스택)&#10;6.영어 끝말잇기\">\r\n      <created>1679389915466</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1679389915466</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"# 코테 &#10;-멀리뛰기\">\r\n      <created>1679646903905</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1679646903905</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"# 코테 &#10;1.최댓값과 최솟값&#10;2.JadenCase 문자열 만들기\" />\r\n    <MESSAGE value=\"# 코테 &#10;1.최솟값 만들기&#10;2.올바른 괄호&#10;3.숫자의 표현&#10;4.다음 큰 숫자\" />\r\n    <MESSAGE value=\"# 코테 &#10;1.최솟값 만들기&#10;2.올바른 괄호&#10;3.숫자의 표현&#10;4.다음 큰 숫자&#10;5.짝지어 제거하기(스택)&#10;6.영어 끝말잇기\" />\r\n    <MESSAGE value=\"# 코테 &#10;-멀리뛰기\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"# 코테 &#10;-멀리뛰기\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/day22/Test10.java</url>\r\n          <line>36</line>\r\n          <option name=\"timeStamp\" value=\"36\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/day22/Test10.java</url>\r\n          <line>28</line>\r\n          <option name=\"timeStamp\" value=\"37\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/programmers$Test11.ic\" NAME=\"Test11 Coverage Results\" MODIFIED=\"1679460089640\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"idea\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\">\r\n      <FILTER>org.example.day22.*</FILTER>\r\n    </SUITE>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,10 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="45276c55-628a-4f33-8e66-6b7625b7584b" name="Changes" comment="# 코테 &#10;-멀리뛰기">
++    <list default="true" id="45276c55-628a-4f33-8e66-6b7625b7584b" name="Changes" comment="# 코딩테스트 스택과 큐&#10;- 절댓값 힙 구현하기&#10;- 카드 게임">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/day0407/Test15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day0407/Test15.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/month04/Test19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/month04/Test19.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -74,14 +72,27 @@
+   </component>
+   <component name="PropertiesComponent">{
+   &quot;keyToString&quot;: {
++    &quot;Gradle.Build programmers.executor&quot;: &quot;Run&quot;,
+     &quot;Gradle.programmers [:Test14.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.programmers [:Test19.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.programmers [:question1.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.programmers [:question12.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.programmers [:question13.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.programmers [:question2.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.programmers [:question3.main()].executor&quot;: &quot;Debug&quot;,
++    &quot;Gradle.programmers [:question4.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.programmers [:question5.main()].executor&quot;: &quot;Run&quot;,
+     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ksm02/project/restapi-study&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/ksm02/carrot-project/caryou-app&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+     &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+@@ -99,13 +110,13 @@
+       <recent name="org.example" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="Application.Test14">
+-    <configuration name="Test14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="org.example.month04.Test14" />
++  <component name="RunManager" selected="Application.question12">
++    <configuration name="question12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="org.example.Part3.question12" />
+       <module name="programmers.main" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="org.example.month04.*" />
++          <option name="PATTERN" value="org.example.Part3.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -113,12 +124,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Test15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="org.example.month04.Test15" />
++    <configuration name="question13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="org.example.Part3.question13" />
+       <module name="programmers.main" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="org.example.month04.*" />
++          <option name="PATTERN" value="org.example.Part3.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -126,12 +137,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Test16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="org.example.month04.Test16" />
++    <configuration name="question3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="org.example.Part3.question3" />
+       <module name="programmers.main" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="org.example.month04.*" />
++          <option name="PATTERN" value="org.example.Part3.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -139,12 +150,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Test18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="org.example.month04.Test18" />
++    <configuration name="question4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="org.example.Part3.question4" />
+       <module name="programmers.main" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="org.example.month04.*" />
++          <option name="PATTERN" value="org.example.Part3.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -152,12 +163,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Test19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="org.example.month04.Test19" />
++    <configuration name="question5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="org.example.Part3.question5" />
+       <module name="programmers.main" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="org.example.month04.*" />
++          <option name="PATTERN" value="org.example.Part3.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -165,6 +176,15 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Application.question13" />
++        <item itemvalue="Application.question12" />
++        <item itemvalue="Application.question5" />
++        <item itemvalue="Application.question4" />
++        <item itemvalue="Application.question3" />
++      </list>
++    </recent_temporary>
+   </component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+@@ -201,7 +221,16 @@
+       <workItem from="1681963320859" duration="26895000" />
+       <workItem from="1705931612768" duration="72000" />
+       <workItem from="1705932204447" duration="14000" />
+-      <workItem from="1705932233437" duration="55000" />
++      <workItem from="1705932233437" duration="513000" />
++      <workItem from="1706342441262" duration="6427000" />
++      <workItem from="1706628037280" duration="1239000" />
++      <workItem from="1707314456911" duration="1025000" />
++      <workItem from="1708954292348" duration="1875000" />
++      <workItem from="1711547081383" duration="703000" />
++      <workItem from="1719750032746" duration="3000" />
++      <workItem from="1731938980323" duration="821000" />
++      <workItem from="1731939901054" duration="74000" />
++      <workItem from="1733147278281" duration="78000" />
+     </task>
+     <task id="LOCAL-00001" summary="# 코테 &#10;1.최댓값과 최솟값&#10;2.JadenCase 문자열 만들기">
+       <created>1679304686650</created>
+@@ -231,7 +260,47 @@
+       <option name="project" value="LOCAL" />
+       <updated>1679646903905</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="# 코딩테스트 연습장&#10;- github 재연동">
++      <option name="closed" value="true" />
++      <created>1705932354519</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1705932354519</updated>
++    </task>
++    <task id="LOCAL-00006" summary="# 코딩테스트 배열과 리스트&#10;- 구간의 합">
++      <option name="closed" value="true" />
++      <created>1706349642968</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1706349642968</updated>
++    </task>
++    <task id="LOCAL-00007" summary="# 코딩테스트 배열과 리스트&#10;- 투포인터 (연속된 숫자의 합 구하기)">
++      <option name="closed" value="true" />
++      <created>1706628865650</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1706628865650</updated>
++    </task>
++    <task id="LOCAL-00008" summary="# 코딩테스트 투 포인터&#10;- 주몽의 명령 (백준 실버 4) 1940번">
++      <option name="closed" value="true" />
++      <created>1707315471468</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1707315471468</updated>
++    </task>
++    <task id="LOCAL-00009" summary="# 코딩테스트 스택과 큐&#10;- 절댓값 힙 구현하기&#10;- 카드 게임">
++      <option name="closed" value="true" />
++      <created>1708956091552</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1708956091552</updated>
++    </task>
++    <option name="localTasksCounter" value="10" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -242,7 +311,19 @@
+       <map>
+         <entry key="MAIN">
+           <value>
+-            <State />
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="master" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
+           </value>
+         </entry>
+       </map>
+@@ -253,7 +334,12 @@
+     <MESSAGE value="# 코테 &#10;1.최솟값 만들기&#10;2.올바른 괄호&#10;3.숫자의 표현&#10;4.다음 큰 숫자" />
+     <MESSAGE value="# 코테 &#10;1.최솟값 만들기&#10;2.올바른 괄호&#10;3.숫자의 표현&#10;4.다음 큰 숫자&#10;5.짝지어 제거하기(스택)&#10;6.영어 끝말잇기" />
+     <MESSAGE value="# 코테 &#10;-멀리뛰기" />
+-    <option name="LAST_COMMIT_MESSAGE" value="# 코테 &#10;-멀리뛰기" />
++    <MESSAGE value="# 코딩테스트 연습장&#10;- github 재연동" />
++    <MESSAGE value="# 코딩테스트 배열과 리스트&#10;- 구간의 합" />
++    <MESSAGE value="# 코딩테스트 배열과 리스트&#10;- 투포인터 (연속된 숫자의 합 구하기)" />
++    <MESSAGE value="# 코딩테스트 투 포인터&#10;- 주몽의 명령 (백준 실버 4) 1940번" />
++    <MESSAGE value="# 코딩테스트 스택과 큐&#10;- 절댓값 힙 구현하기&#10;- 카드 게임" />
++    <option name="LAST_COMMIT_MESSAGE" value="# 코딩테스트 스택과 큐&#10;- 절댓값 힙 구현하기&#10;- 카드 게임" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>

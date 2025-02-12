@@ -20,6 +20,7 @@ public class question14 {
         //2 큐에 넣는다 [6,5,4,3,2,1]
         //3 1번 버린다 poll
         //4 2번 버리고 다시 넣는다.
+        //5
 
         Queue<Integer> queue = new LinkedList<>();
 

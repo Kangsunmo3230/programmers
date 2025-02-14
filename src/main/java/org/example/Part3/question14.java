@@ -28,7 +28,7 @@ public class question14 {
             queue.offer(array[i]);
         }
         while (queue.size() > 1) {
-            queue.poll();
+             queue.poll();
             queue.offer(queue.poll());
         }
         System.out.println(queue.peek());

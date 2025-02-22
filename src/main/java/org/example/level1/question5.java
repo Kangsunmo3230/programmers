@@ -20,6 +20,8 @@ public class question5 {
             result =  (long) Math.pow(Math.sqrt(n) + 1, 2);
         }
 
+        //제곱근
+
     }
 
 

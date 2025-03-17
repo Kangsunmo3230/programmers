@@ -19,7 +19,7 @@ public class question5 {
         if (Math.pow((int) Math.sqrt(n), 2) == n) {
             result =  (long) Math.pow(Math.sqrt(n) + 1, 2);
         }
-        //0303
+        //0317
         //제곱근
         
 

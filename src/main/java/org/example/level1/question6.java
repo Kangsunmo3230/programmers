@@ -15,7 +15,8 @@ public class question6 {
 
         if (Math.pow((int) Math.sqrt(n), 2) == n) {
             result =  (long) Math.pow(Math.sqrt(n) + 1, 2);
-        }
+            //Math.pow  제곱근
+        }  
     }
 
 
